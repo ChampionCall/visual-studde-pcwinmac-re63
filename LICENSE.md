@@ -1,4 +1,4 @@
-# 
+# Free Visual Studio Code presets for Mac OS | Elite Visual Studio Code presets for PC Windows. Featuring IntelliSense and Kubernetes-integration — optimized for maximum performance on every platform.
 
 
 
